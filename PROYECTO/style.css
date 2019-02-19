@@ -1,0 +1,211 @@
+.contenedor{
+    width: 1000px;
+    margin:auto;
+  }
+  body {
+    background-color: #A9E2F3;
+    margin: 0;
+    font-family: 'Open sans', sans-serif;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  #trivia{
+    color: white;
+    font-family: 'Impact', Charcoal, sans-serif;
+    font-size: 70px;
+  }
+  #user{
+    margin: 0px 0px 40px 350px;
+    width: 300px;
+    height: 50px;
+  }
+  #next {
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 25px;
+    font-family: 'Impact', Charcoal, sans-serif;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    display: flex; 
+    justify-content: center;
+  }
+  #paises {
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    display: flex; 
+    justify-content: center;
+  }
+  
+  #mujerestech {
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  
+  }
+  #paisQuestion1{
+    margin-left:380px;
+    margin-right:380px;
+  }
+  
+  #paisQuestion2{
+    margin-left:380px;
+    margin-right:380px;
+  }
+  
+  #paisQuestion3{
+    margin-left:380px;
+    margin-right:380px;
+  }
+  #siguiente{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color:#FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  #siguiente2{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  #results{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+   margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;;
+  }
+  #techQuestion1{
+    margin-left:380px;
+    margin-right:380px;
+  }
+  #techQuestion2{
+    margin-left:380px;
+    margin-right:380px;
+  }
+  #techQuestion3{
+    margin-left:380px;
+    margin-right:380px;
+  }
+  #siguiente3{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  #siguiente4{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+   margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  
+  #resultados2{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  
+  #playAgain{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  #playagain{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  
+  #salir{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  
+  #end{
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FACC2E;
+    margin: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+  }
+  
